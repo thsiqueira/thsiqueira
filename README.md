@@ -1,6 +1,6 @@
 - 👋 Oi, meu nome é Thiago Santos Siqueira
 - 👀 Estou interessando em desenvolver minhas habilidades em desenvolvimento de aplicações. 
-Atualmente estou cursando o 4° período de Análise e Desenvolvimento de Sistemas 
+Atualmente estou cursando o 5° período de Análise e Desenvolvimento de Sistemas 
 - no Centro Universitário Una.
 <!---
 thsiqueira/thsiqueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
